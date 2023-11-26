@@ -1,0 +1,31 @@
+Problems That Humans Face in daily life and there solutions:
+
+1.Feeling Alone😔
+sol. chatbot
+
+2.Learning Problems📚
+sol. Teach To Me App
+
+3.Connectivity Issues🔌
+sol. Connect Me
+
+4.Lazy To Do Work🦥
+sol. Jarvis A.I
+
+5.Sleeping Time Not Set😴
+sol. Alarm App
+
+6.Boring Same BreakFast😅
+sol. BreakFast Ideas App
+
+7.Bad AQI♒
+sol. Reminder for Bad AQI and not to go outside
+
+8.Electricity Problems(when electricity is gone)⚡
+sol. Things to to do when electricity is gone App
+
+9.Can't Sleep Because of distractions
+sol. Sleep Poem App(Like Mother Do)
+
+10.Bad Health👩‍⚕️
+sol. Be Healthy App
